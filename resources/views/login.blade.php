@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="alert alert-info mt-4 border-0 shadow-sm text-center" style="font-size: .9rem;">
-                Akun demo: <strong>admin@project.test</strong> | Password: <strong>password123</strong>
+                Login admin: <strong>Silahkan login menggunakan user admin</strong>
             </div>
         </div>
     </div>
